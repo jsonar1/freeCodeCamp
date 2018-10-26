@@ -40,6 +40,15 @@ So you've covered the basics of Python?  You're now ready to discover the in-dep
 - ISBN-10: 0596158106
 - ISBN-13: 978-0596158101
 
+#### Effective Python: 59 Specific Ways to Write Better Python
+
+Effective Python will help students harness the full power of Python to write exceptionally robust, efficient, maintainable, and well-performing code. Utilizing the concise, scenario-driven style pioneered in Scott Meyers's best-selling Effective C++, Brett Slatkin brings together 53 Python best practices, tips, shortcuts, and realistic code examples from expert programmers. Each section contains specific, actionable guidelines organized into items, each with carefully worded advice supported by detailed technical arguments and illuminating examples.
+
+- [Amazon](https://www.amazon.com.au/Effective-Python-Specific-Write-Better/dp/0134034287/ref=sr_1_1?ie=UTF8&qid=1540550217&sr=8-1&keywords=Effective+Python+book)
+- Kindle version also available.
+- ISBN-13: 978-0134034287 
+- ISBN-10: 9780134034287
+
 #### Data Science from Scratch: First Principles with Python
 
 You'll learn many of the first princliples for data science tools and how algorithms work by implementing these from scratch.  If you have an aptitude for maths and some coding skills, you'll have a crash course in Python that includes the basics of algebra, statistics, and probability.  You'll learn how to implement models such as k-nearest Neighbors, Naive Bayes, linear and logistic regression, decision trees, neural networks and clustering. Discover recommender systems, natural lanuage processing, network analysis, MapReduce and databases.
